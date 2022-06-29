@@ -75,3 +75,31 @@ img {
     font-size: 18px;
     color: #E5E7EB;
 }
+
+h2 {
+    font-size: 36px;
+    color: #1F2937;
+    text-align: center;
+}
+
+.illustrations {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    flex-basis: 10em;
+    align-items: center;
+    align-items: center;
+}
+
+.pics {
+    border: solid blue;
+    max-width: 20vw;
+    height: 20vh;
+    border-radius: 15px;
+}
