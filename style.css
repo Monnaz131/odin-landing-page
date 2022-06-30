@@ -80,6 +80,7 @@ h2 {
     font-size: 36px;
     color: #1F2937;
     text-align: center;
+    padding: 50px;
 }
 
 .illustrations {
@@ -87,6 +88,7 @@ h2 {
     justify-content: center;
     text-align: center;
     gap: 20px;
+    margin-bottom: 100px;
 }
 
 .info {
@@ -102,4 +104,21 @@ h2 {
     width: 10em;
     height: 10em;
     border-radius: 15px;
+}
+
+.quote-box {
+    background-color: #E5E7EB;
+    padding: 50px 100px;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+    color: #1F2937;
+}
+
+.author {
+    font-weight: 700;
+    font-size: 24px;
+    text-align: end;
 }
