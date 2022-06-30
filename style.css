@@ -63,7 +63,7 @@ button {
     border-radius: 5px;
     border: none;
     color: #F9FAF8;
-    padding: 8px 16px;
+    padding: 8px 20px;
 }
 
 img {
@@ -121,4 +121,23 @@ h2 {
     font-weight: 700;
     font-size: 24px;
     text-align: end;
+}
+
+.inner-box {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #3882F6;
+    margin: 50px 80px;
+    padding: 20px 30px;
+    border-radius: 10px;
+}
+
+.bottom {
+    border: 1px solid white;
+    margin-left: 30px;
+}
+
+h3 {
+    color: #F9FAF8;
 }
